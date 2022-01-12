@@ -1,0 +1,2 @@
+# nextCore_manyrepo_Kyotsu
+複数reository 共通repository
